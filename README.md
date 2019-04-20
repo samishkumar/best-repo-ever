@@ -1,3 +1,4 @@
 # best-repo-ever
 /*this is my first commit*/
-/new comments by new-branch-2/
+/comments by new-branch-2/
+/*new-branch-1 changes*/
